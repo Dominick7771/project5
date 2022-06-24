@@ -1,0 +1,14 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json --port 3004"
+  },
+  "author": "Golub Anton",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
